@@ -42,20 +42,30 @@ Scrum的工件主要包括：Product Backlog（产品待办事项）、Sprint Ba
 
 * 由 Product Owner 负责维护，包括增删及优先级。
 * 用户故事是其中一种最佳实践。
-* 每项需求都要描述其外部价值。
+* 每项需求都需要描述其外部价值。
 
 ### Sprint 待办事项 Sprint Backlog
 
 Sprint 待办事项 Sprint Backlog即此次冲刺周期内规划要完成的内容。
 
-* 由 Scrum Team 负责维护。
-* 
-
+* 来源于Product Backlog。
+* 由团队评估和选择Product Backlog中哪些放入Sprint Backlog。
+* 团队需要一起定义“完成”的标准。
 
 ### 可交付产品增量 Increment
 
-可交付产品增量 Increment 即冲刺结束后可对外发布的产品增量部分。
+可交付产品增量 Increment 即冲刺结束后可对外发布的产品功能增量部分。
+
+* 需要关注其是可工作的软件功能增量。
+* 需要要在Scrum Review会议上进行演示。
 
 ## 5个事件
+Scrum的五大事件，或 event，包括：Sprint（冲刺）、Sprint Planning（Sprint规划）、Sprint Daily Standup（每日站会）、Sprint Review（Sprint 评审）和 Sprint Retrospective（回顾）。
+
+### Sprint（冲刺）
+### Sprint Planning（Sprint规划）
+### Sprint Daily Standup（每日站会）
+### Sprint Review（Sprint 评审）
+### Sprint Retrospective（回顾）。
 
 ## 5个成果
