@@ -42,3 +42,5 @@ DevOps 不需要禁止任何特殊的数据库技术。反过来，任何技术�
 
 已经有一些开源的和商业的系统实践了这个过程。他们的一些产品比其他人更复杂，如支持多语言、多数据库、错误处理及是否支持回滚等。从一项关于”SQL 自动化更新“的研究中，你会发现更多信息。我最熟悉的是面向.NET 代码的开源项目 [Mayflower](https://github.com/bretcope/Mayflower.NET)和面向 Go 的[Goose](https://bitbucket.org/liamstask/goose)。
 
+schema 的修改会导致数据库被锁定几分钟甚至几个小时。这会引起应用系统的超时甚至故障。现代SQL 数据库已经减少此类问题了，需要感谢无锁 schema 升级和在线重建索引的特性。这些特性可以在现在 SQL 数据库产品中找到，包括开源产品如 MariaDB、MySQL、PostgresSQL。查阅相关文档，以了解操作时的注意事项。
+
