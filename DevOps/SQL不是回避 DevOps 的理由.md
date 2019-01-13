@@ -1,6 +1,7 @@
-# [译]SQL不是回避 DevOps 的理由
+# [译][SQL不是回避 DevOps 的理由](https://queue.acm.org/detail.cfm?id=3300018)
 
 自动化＋一些原则让测试更有效、发布周期更短，而且商业风险更低。
+
 by Thomas A.Limoncelli
 
 有朋友最近告诉笔者，”我们做不了 DevOps，我们使用了关系数据库。“笔者听罢，差点从椅子上摔倒。这个观点在很多层面都是错误的。
