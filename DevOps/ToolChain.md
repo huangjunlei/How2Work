@@ -24,5 +24,9 @@
 
 ## 依赖库
 
-* C/C++ ：Conan
-* Java：Maven
+### C/C++ ：Conan
+
+* 官网：https://conan.io/
+* 定位：the C / C++ Package Manager for Developers.The open source, decentralized and multi-platform package manager to create and share all your native binaries.
+
+### Java：Maven
