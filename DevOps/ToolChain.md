@@ -30,3 +30,15 @@
 * 定位：the C / C++ Package Manager for Developers.The open source, decentralized and multi-platform package manager to create and share all your native binaries.
 
 ### Java：Maven
+
+## 流程支持
+
+### 任务管理
+
+#### Redmine
+
+#### Jira
+
+* 官网： <https://www.atlassian.com/software/jira>
+
+### 缺陷管理：mantis
