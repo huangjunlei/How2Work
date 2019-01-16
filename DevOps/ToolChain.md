@@ -26,8 +26,9 @@
 
 * gcc
 * openjdk
+* VisualStudio
 
-## 集成集成
+## 持续集成
 
 * Jenkins
 
