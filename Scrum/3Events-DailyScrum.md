@@ -40,4 +40,5 @@ Scrum Master 确保开发团队每日站会如期举行，但开发团队自己�
 
 ## 注意事项
 
-* N vs N ， No 1 vs N
+* N vs N ， No 1 vs N* N vs N ， No 1 vs N
+* 让其他伙伴听懂
