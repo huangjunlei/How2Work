@@ -64,6 +64,7 @@ default:
 ### 3. 重启 lighttpd 服务
 
 重启 lighttpd 服务触发加载修改后的配置信息。
+
 `/etc/init.d/lighttpd restart`
 
 ### 4. 配置 Redmine 服务所在机器上DNS 服务信息
