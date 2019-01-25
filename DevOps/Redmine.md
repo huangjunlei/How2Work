@@ -36,6 +36,8 @@
 
 找到 Redmine 的配置目录，一般如下：`redmine/config/`
 
+用 vi 编辑配置文件：
+
 `vi configuration.yml`
 
 找到以下内容
@@ -52,6 +54,8 @@ default:
       user_name: your_email@gmail.com
       password: your_password
 ```
+根据第一步获取的 smtp 服务信息，修改 address、port、domain、user_name、password。
+
 说明：
 * SSL 不是必选的，如果启用，则要配置邮件厂商提供的端口。
 * address与domain可以配一样，用英文双引号包围。
