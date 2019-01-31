@@ -93,12 +93,12 @@ gcc 版本 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC)
 
 ```bash
 cmakedemo
-|____demo2
-|____demo3
-|____demo4
 |____demo1
 | |____CMakeLists.txt
 | |____helloworld.cpp
+|____demo2
+|____demo3
+|____demo4
 ```
 ### 1.4 CMake相关链接
 
