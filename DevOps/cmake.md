@@ -89,8 +89,9 @@ gcc 版本 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC)
 
 * 详细过程输出参考，参见附二。
 
-### 1.3demo目录规划
+### 1.3 demo目录规划
 
+```bash
 cmakedemo
 |____demo2
 |____demo3
@@ -98,7 +99,7 @@ cmakedemo
 |____demo1
 | |____CMakeLists.txt
 | |____helloworld.cpp
-
+```
 ### 1.4 CMake相关链接
 
 * 官网下载地址：https://cmake.org/download/
