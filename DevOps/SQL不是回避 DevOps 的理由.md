@@ -111,9 +111,9 @@ schema 的修改会导致数据库被锁定几分钟甚至几个小时。这会�
 
 ## 相关文章
 
-* [《最小批量原则》 消减浪费，鼓励试验，让所有人快乐](https://queue.acm.org/detail.cfm?id=2945077)
+* [《最小批量原则》](https://queue.acm.org/detail.cfm?id=2945077)
 * [《精益软件开发-构建与迁移2版本》](https://queue.acm.org/detail.cfm?id=2841311)
-* [将 DevOps 实践应用至质量保证](https://queue.acm.org/detail.cfm?id=2540984)
+* [《将 DevOps 实践应用至质量保证》](https://queue.acm.org/detail.cfm?id=2540984)
 
 ## 关于作者：Thomas A. Limoncelli
 
