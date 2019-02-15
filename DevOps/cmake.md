@@ -100,11 +100,13 @@ cmakedemo
 |____demo3
 |____demo4
 ```
+
 ### 1.4 CMake相关链接
 
-* 官网下载地址：https://cmake.org/download/
-* 在线帮助文档：https://cmake.org/documentation
-* 关于 gcc-c++ https://pkgs.org/download/gcc-c++
+* CMake 2.8.12 <https://cmake.org/cmake/help/v2.8.12/cmake.html>
+* 官网下载地址：<https://cmake.org/download/>
+* 在线帮助文档：<https://cmake.org/documentation>
+* 关于 gcc-c++ <https://pkgs.org/download/gcc-c++>
 
 ## 2. 第一个程序 helloworld
 
@@ -113,6 +115,8 @@ cmakedemo
 共包含2个文件，一个 c++文件 helloworld.cpp,另一个是CMakeLists.txt。
 
 #### 2.1.1 helloworld.cpp
+
+helloworld.cpp为你开发的源码文件，自由命名，自由书写内容。
 
 ```c++
 #include<iostream>
@@ -125,17 +129,53 @@ int main(int argc, char *argv[]){
 
 #### 2.1.2 CMakeLists.txt
 
-```makelist
+CMakeLists.txt为 cmake 工作的输入文件，命名固定，格式语法固定，以下为示例，实际开发中要根据工程结构来编写。
+
+```makefile
 cmake_minimum_required(VERSION 2.8.9)
 project (hello)
 add_executable(hello helloworld.cpp)
 ```
 
-文件说明：
+##### 第1行声明需要的最低 cmake版本
+
+完整语法为
+`cmake_minimum_required(VERSION major[.minor[.patch[.tweak]]] [FATAL_ERROR])`
+
+扩展阅读：<https://cmake.org/cmake/help/v2.8.12/cmake.html#command:cmake_minimum_required>
+
+##### 第2行声明项目名
+
+完整语法为： `project(<projectname> [languageName1 languageName2 ... ] )`
+
+扩展阅读：<https://cmake.org/cmake/help/v2.8.12/cmake.html#command:project>
+
+##### 第3行声明执行体名称及源码列表
+
+完整语法如下：
+
+```makefile
+  add_executable(<name> [WIN32] [MACOSX_BUNDLE]
+                 [EXCLUDE_FROM_ALL]
+                 source1 source2 ... sourceN)
+```
+
+扩展阅读：<https://cmake.org/cmake/help/v2.8.12/cmake.html#command:add_executable>
 
 ### 2.2 编译过程
 
-* 生成 Makefile
+#### 2.2.1 生成 Makefile
+
+cmake 的命令形式为：
+
+```bash
+  cmake [options] <path-to-source>
+  cmake [options] <path-to-existing-build>
+```
+
+扩展阅读：<https://cmake.org/cmake/help/v2.8.12/cmake.html#section_Usage>
+
+Demo示例执行过程如下：
 
 ```bash
 [root@myecs]# cmake .
@@ -154,7 +194,11 @@ add_executable(hello helloworld.cpp)
 -- Build files have been written to: /home/cmakedemo/demo1
 ```
 
-* 查看生成结果
+##### 解释
+
+首先，CMake检测运行环境，如没有 c++编译器会报附件三的错误；检测通过后，CMake 会生成工程所对应的 Makefile。需要强调的是，Makefile允许查看，但不要尝试编辑，而且下次执行时它也会被覆盖。
+
+#### 2.2.2 查看生成结果
 
 ```bash
 [root@myecs]# ls
@@ -171,7 +215,9 @@ cmake_check_build_system:
 .PHONY : cmake_check_build_system
 ```
 
-* 编译
+#### 2.2.3 编译
+
+在 Makefile 生成后，可以使用make 进行编译工程。
 
 ```bash
 [root@myecs]# make
@@ -181,7 +227,7 @@ Linking CXX executable hello
 [100%] Built target hello
 ```
 
-* 查看编译结果
+#### 2.2.4 查看编译结果
 
 ```bash
 [root@myecs]# ls
@@ -190,12 +236,14 @@ CMakeCache.txt  CMakeFiles  cmake_install.cmake  CMakeLists.txt  hello  hellowor
 -rwxr-xr-x 1 root root 9176 1月  30 20:13 hello
 ```
 
-* 执行著名程序 helloworld
+#### 2.2.5  执行著名程序 helloworld
 
 ```bash
 [root@myecs]# ./hello
 Hello World!
 ```
+
+至此 cmake 使用完整流程就结束了。当然对于 helloworld 这个程序，有些杀鸡用牛刀，但利于整体理解 cmake 的应用流程。
 
 ## 3. 体验有目录结构的项目构建
 
