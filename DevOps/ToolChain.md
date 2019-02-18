@@ -3,6 +3,7 @@
 ## 代码库
 
 * Git
+* GitLab <https://about.gitlab.com>
 * GitHub
 * SVN
 * ClearCase
