@@ -18,72 +18,72 @@ PDMA是全球产品开发和管理领域最大的协会。其使命为提升组�
 
 1. Innovation Management 创新管理
 
-  * 创新的驱动力:为什么要创新 The innovation imperative: Why innovate
-  * 创新的组合:创新什么 The innovation Portfolio: What to innovate
-  * 创新的声音:如何创新 The innovation voices: How to innovate
-  * 创新的心态:谁来创新 The innovative mind: Who to innovate
-  * 成本公式:如何长期稳定获利 Cost functions
-  * 钱从哪里来、市场在哪里、需求如何、顾客熟悉度 Where is money? Markets, demand, customer intimacy
+* 创新的驱动力:为什么要创新 The innovation imperative: Why innovate
+* 创新的组合:创新什么 The innovation Portfolio: What to innovate
+* 创新的声音:如何创新 The innovation voices: How to innovate
+* 创新的心态:谁来创新 The innovative mind: Who to innovate
+* 成本公式:如何长期稳定获利 Cost functions
+* 钱从哪里来、市场在哪里、需求如何、顾客熟悉度 Where is money? Markets, demand, customer intimacy
 
 2. Mission / Vision / Strategy 使命/愿景/策略
 
-  * Mission, Vision, and Value任务,愿景,价值与策略
-  * Business strategy商业策略
-  * Product innovation strategy 产品创创新策略
-  * Cores strategic vision核心策略愿景
-  * Platform strategy 平台策略
-  * Market strategy 营销策略
-  * Technology strategy技术策略
-  * Product innovation charter 创新产品创创新章程
+* Mission, Vision, and Value任务,愿景,价值与策略
+* Business strategy商业策略
+* Product innovation strategy 产品创创新策略
+* Cores strategic vision核心策略愿景
+* Platform strategy 平台策略
+* Market strategy 营销策略
+* Technology strategy技术策略
+* Product innovation charter 创新产品创创新章程
 
 3. Market Research 市场研究
 
-  * Market research 市场研究
-  * Voice of the customer 顾客声音
-  * Secondary market research 第二阶段市场研究
-  * Primary market research 初阶市场研究
-  * Qualitative定性
-  * Quantitative定量
-  * Explore探究
-  * Confirmation验证
+* Market research 市场研究
+* Voice of the customer 顾客声音
+* Secondary market research 第二阶段市场研究
+* Primary market research 初阶市场研究
+* Qualitative定性
+* Quantitative定量
+* Explore探究
+* Confirmation验证
 
 4. Portfolio Management 组合管理
 
-  * Portfolio–thedefinition何谓组合
-  * Portfolio management (PPM) 组合管理
-  * Portfolio management processes 组合管理流程
-  * Organizational influence 组织对组合管理的影响
-  * Portfolio governance processes组合管理流程
+* Portfolio–thedefinition何谓组合
+* Portfolio management (PPM) 组合管理
+* Portfolio management processes 组合管理流程
+* Organizational influence 组织对组合管理的影响
+* Portfolio governance processes组合管理流程
 
 5. New product process 创新产品流程
 
-  * Definitions定义
-  * Stage gate / phase review process 阶段关卡/阶段回顾过程 Decision making决策
-  * Process owner过程指挥者
+* Definitions定义
+* Stage gate / phase review process 阶段关卡/阶段回顾过程 Decision making决策
+* Process owner过程指挥者
 
 6. Teams, People, and Organizational Issues 团队等议题
 
-  * Definitions定义
-  * Project Team Organizations 项目团队组织
-  * Team Culture and Process 团队文化和程序
-  * Building and Managing a New Product Team 组织与管理团队
-  *  Organization Issues in Supporting Teams
-  * Senior Management Roles(高阶管理层的角色)
-  * Cross-Functional Interfaces(跨功能接口)
-  * Factors Affecting Multi-Functional Team effectiveness 影响跨功能团队绩效的因素
+* Definitions定义
+* Project Team Organizations 项目团队组织
+* Team Culture and Process 团队文化和程序
+* Building and Managing a New Product Team 组织与管理团队
+*  Organization Issues in Supporting Teams
+* Senior Management Roles(高阶管理层的角色)
+* Cross-Functional Interfaces(跨功能接口)
+* Factors Affecting Multi-Functional Team effectiveness 影响跨功能团队绩效的因素
 
 7. Tools and metrics 工具及衡量指标
 
-  * Tools
-  * Portfolio management项目/产品组织者
-  * Financial analysis / forecasting 财务分析/预测
-  * Idea generation点子产生Quality品质
-  * Engineering design / technical 工程设计/技术
-  * Project management 项目管理
-  * Market research / marketing 市场研究/销售
-  * Metrics
-  * Fundamentals基础
-  * Measuring success 衡量成功
+* Tools
+* Portfolio management项目/产品组织者
+* Financial analysis / forecasting 财务分析/预测
+* Idea generation点子产生Quality品质
+* Engineering design / technical 工程设计/技术
+* Project management 项目管理
+* Market research / marketing 市场研究/销售
+* Metrics
+* Fundamentals基础
+* Measuring success 衡量成功
 
 ## 产品经理的职业发展路径
 
