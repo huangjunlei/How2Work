@@ -165,11 +165,11 @@ ORDER BY Persons.LastName
 与链接类似，使用 `![](图片链接地址)` 来展示图片。
 
 - 网络图片
-  - `![网络图片](https://gitlab.kitware.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png)`
-  - ![网络图片](https://gitlab.kitware.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png)
+  - 语法：`![网络图片](https://gitlab.kitware.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png)`
+  - 效果：![网络图片](https://gitlab.kitware.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png)
 - 本地图片
-  - `![本地图片](img_local.png)`
-  - ![本地图片](img_local.png)
+  - 语法：`![本地图片](img_local.png)`
+  - 效果：![本地图片](img_local.png)
 
 ### 引用
 
