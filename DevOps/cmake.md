@@ -247,6 +247,59 @@ Hello World!
 
 ## 3. 体验有目录结构的项目构建
 
+demo2的目录结构
+
+```bash
+├── build
+├── CMakeLists.txt
+├── include
+│   └── Employee.h
+└── src
+    ├── Employee.cpp
+    └── mainapp.cpp
+```
+
+```bash
+[root@myecs build]#cmake ..
+-- The C compiler identification is GNU 4.8.5
+-- The CXX compiler identification is GNU 4.8.5
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cmakedemo/demo2/build
+```
+
+```bash
+[root@myecs build]# ls
+CMakeCache.txt  CMakeFiles  cmake_install.cmake  Makefile
+```
+
+```bash
+[root@myecs build]# make
+Scanning dependencies of target testDemo2
+[ 50%] Building CXX object CMakeFiles/testDemo2.dir/src/mainapp.cpp.o
+[100%] Building CXX object CMakeFiles/testDemo2.dir/src/Employee.cpp.o
+Linking CXX executable testDemo2
+[100%] Built target testDemo2
+```
+
+```bash
+[root@myecs build]# ls
+CMakeCache.txt  CMakeFiles  cmake_install.cmake  Makefile  testDemo2
+```
+
+```bash
+[root@myecs build]# ./testDemo2 
+A employee with name Ray id 38
+```
+
 ## 4. 构建共享库
 
 ## 5. 构建静态库

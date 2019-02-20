@@ -3,8 +3,8 @@
 class Employee{
 private:
 	std::string name;
-	std::int32_t id;
+	int id;
 public:
-	Employee(std::string, std::int32_t);
+	Employee(std::string, int);
 	virtual void display();
 };
