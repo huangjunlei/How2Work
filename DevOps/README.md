@@ -12,7 +12,7 @@
 
 ### 基础设施变革
 
-* 从 ClearCase 到 Gitlab
+* 从 ClearCase 到 Git
 * 从 Jenkins 到 Gitlab
 
 ### 产品规划变革
