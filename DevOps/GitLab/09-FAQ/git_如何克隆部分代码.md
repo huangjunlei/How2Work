@@ -88,6 +88,6 @@ index.*
 
 ## 参考
 
-<https://blog.csdn.net/u022812849/article/details/53025248>
-<http://schacon.github.io/git/git-read-tree.html#_sparse_checkout>
-<https://zhgcao.github.io/2016/05/11/git-sparse-checkout/>
+* <https://blog.csdn.net/u022812849/article/details/53025248>
+* <http://schacon.github.io/git/git-read-tree.html#_sparse_checkout>
+* <https://zhgcao.github.io/2016/05/11/git-sparse-checkout/>
