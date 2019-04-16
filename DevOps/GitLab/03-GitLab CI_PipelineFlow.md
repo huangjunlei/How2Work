@@ -32,6 +32,12 @@ PipeLine 即流水线是持续集成、发布、部署的最顶层的组件。�
 
 ### 1.4 .gitlab-ci.yml
 
+>GitLab CI/CD pipelines are configured using a YAML file called .gitlab-ci.yml within each project.
+The .gitlab-ci.yml file defines the structure and order of the pipelines and determines: (a) What to execute using GitLab Runner. (b) What decisions to make when specific conditions are encountered. For example, when a process succeeds or fails.
+
+.gitlab-ci.yml是 pipeline 的定义文件,即定义了流水线的实际内容。
+<https://docs.gitlab.com/ee/ci/yaml/README.html>
+
 ### 1.5 Stage
 
 >Stages that define when and how to run. For example, that tests run only after code compilation.
