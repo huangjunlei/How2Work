@@ -1,6 +1,6 @@
 # GitLab CI Pipeline框架
 
-本文介绍GitLab CI框架，帮助大家理解其架构，以设计适合自己的 CI 环境。
+本文介绍GitLab CIPipeline框架，帮助大家理解其架构，以设计适合自己的 CI 环境。
 
 ## 1.基本概念
 
