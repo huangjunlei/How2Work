@@ -27,3 +27,7 @@
 * 持续集成的由浅入深
 * 信息的高效共享与流转
 * 业务范围的持续拓展
+
+## 参考
+* <https://en.wikipedia.org/wiki/Continuous_integration>
+* <https://continuousdelivery.com/>
