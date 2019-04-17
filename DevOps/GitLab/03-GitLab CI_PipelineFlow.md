@@ -42,13 +42,13 @@ The .gitlab-ci.yml file defines the structure and order of the pipelines and det
 
 >Stages that define when and how to run. For example, that tests run only after code compilation.
 
-Stage 即阶段定义为何时如何运行。
+Stage 即阶段定义为何时如何运行。如果 Stages 在.gitlab-ci.yml没有定义，则默认有 `build`、`test`、`deploy` 三个 Stage。
 
 ### 1.6 Job
 
 >Jobs that define what to run. For example, code compilation or test runs.Multiple jobs in the same stage are executed by Runners in parallel, if there are enough concurrent Runners.
 
-Job即任务定义为运行的内容。可自定义名称，但 GitLab 保留了一些关键字。
+Job即任务定义为运行的内容。可自定义名称，但 GitLab 保留了一些关键字。如果 job 没有定义所属的 stage，则默认为 `test`.
 
 ### 1.7 Script
 
