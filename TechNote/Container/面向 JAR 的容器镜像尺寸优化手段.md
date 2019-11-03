@@ -1,7 +1,7 @@
 # 面向 JAR 的容器镜像尺寸优化的手段
 
-> 感谢 https://phauer.com/2019/no-fat-jar-in-docker-image/
-https://www.infoq.cn/article/eULlQ4A3RcaLLQeImQy9
+> 感谢  https://phauer.com/2019/no-fat-jar-in-docker-image/
+  https://www.infoq.cn/article/eULlQ4A3RcaLLQeImQy9
 
 容器技术迷人之一是其轻量化，但如果容器镜像制作不佳，会导致不能充分发挥其优势。
 
