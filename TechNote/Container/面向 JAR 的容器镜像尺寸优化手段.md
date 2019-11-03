@@ -69,8 +69,13 @@ IMAGE               CREATED             CREATED BY                              
 示例如下：
 
 ```bash
-dive nginx
+$ dive nginx
+Fetching image... (this can take a while with large images)
+Parsing image...
+Analyzing image...
+Building cache...
 ``` 
+
 ![docker-dive-sample.png](../img/docker-dive-sample.png)
 
 ## 工具：帮助你优化镜像文件的工具 jib
