@@ -66,6 +66,13 @@ IMAGE               CREATED             CREATED BY                              
 
 扩展阅读：[https://github.com/wagoodman/dive](https://github.com/wagoodman/dive)
 
+示例如下：
+
+```bash
+dive nginx
+``` 
+![docker-dive-sample.png](../img/docker-dive-sample.png)
+
 ## 工具：帮助你优化镜像文件的工具 jib
 
 Jib 是一个 Maven 或 Gradle 插件，用于简化 Java 应用程序镜像的打包过程。对于我们来说，Jib 最重要的一个特性是，它会扫描我们的 Java 项目，并为依赖项、资源文件和代码创建不同的层。
