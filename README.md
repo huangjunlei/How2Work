@@ -7,7 +7,7 @@
 欢迎大家提建议和意见，谢谢！
 
 * [敏捷之 Scrum](./Scrum)
-* 产品研发ProductRD
-* 产品经理国际资格认证New Product Development Professional(NPDP)
-* DevOps实践
-* 商业实践BusinessPractice
+* [产品研发ProductRD](./ProductRD)
+* [产品经理国际资格认证New Product Development Professional(NPDP)](./NPDP)
+* [DevOps实践](DevOps)
+* [商业实践BusinessPractice](./BusinessPractice)
