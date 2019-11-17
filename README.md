@@ -5,3 +5,9 @@
 期待能形成一份软件研发的实践参考。
 
 欢迎大家提建议和意见，谢谢！
+
+* 敏捷之 Scrum
+* 产品研发ProductRD
+* 产品经理国际资格认证New Product Development Professional(NPDP)
+* DevOps实践
+* 商业实践BusinessPractice
