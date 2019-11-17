@@ -6,7 +6,7 @@
 
 欢迎大家提建议和意见，谢谢！
 
-* 敏捷之 Scrum
+* [敏捷之 Scrum](./Scrum)
 * 产品研发ProductRD
 * 产品经理国际资格认证New Product Development Professional(NPDP)
 * DevOps实践
