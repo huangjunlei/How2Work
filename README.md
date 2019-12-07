@@ -11,3 +11,4 @@
 * [产品经理国际资格认证New Product Development Professional(NPDP)](./NPDP)
 * [DevOps实践](DevOps)
 * [商业实践BusinessPractice](./BusinessPractice)
+* [杂记](./Others)
