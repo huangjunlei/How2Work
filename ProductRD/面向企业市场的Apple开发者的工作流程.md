@@ -164,6 +164,6 @@ Apple Configurator 2 还包括可显示设备信息的窗口，如 iOS 版本、
 > **自定或自动化您的设备配置**:
 Apple Configurator 2 实现了 MDM 注册的自动化，可无缝分发来自 App Store 的 App。这一操作通过整合“Apple 校园教务管理”和“Apple 商务管理”来实现。“准备助理”便于针对课堂环境监督和配置多部 iPad，或在 MDM 解决方案中快速注册大量设备以供持续管理。内建的配置描述文件编辑器支持创建和编辑带有最新 iOS、iPadOS 和 Apple TV 设置的描述文件。
 
-## TestFlight Beta 版测试概述（iOS、Apple TVOS、watchOS）
+## 4.TestFlight Beta 版测试概述（iOS、Apple TVOS、watchOS）
 
 <https://help.apple.com/app-store-connect/#/devdc42b26b8>
